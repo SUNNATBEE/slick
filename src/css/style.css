@@ -34,7 +34,9 @@ img{
 .bg-hero{
     background-position: calc(50% + 120px) -100px;
 }
-
+.article-bg{
+    background-image: url("../images/article-bg.jpg");
+}
 .slick-next{
     position: absolute;
 }
